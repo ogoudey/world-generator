@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<sdf version="1.8">
+<world name="e-world">
+    <include>
+        <uri>Plane</uri>
+    </include>
+    <include>
+        <uri>Cube</uri>
+    </include>
+
+
+</world> 
+</sdf>
